@@ -172,12 +172,12 @@ h1 button {
   margin: 10px 0;
 }
 
-.from-group label {
+.form-group label {
   display: block;
   margin: 20px 0 10px;
 }
 
-.from-group textarea {
+.form-group textarea {
   border: 1px solid #aaa;
   border-radius: 3px;
   font-size: 16px;
